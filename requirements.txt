@@ -1,0 +1,7 @@
+The project is built using the following libraries :
+1. Pandas
+2. Numpy
+3. Keras
+4. Tensorflow
+5. OpenCV
+6. Typing
